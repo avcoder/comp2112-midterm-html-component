@@ -33,10 +33,10 @@
 ```html
  <div class="dt w-100 bb b--black-05 pb2 mt2" href="#0">
    <div class="dtc w2 w3-ns v-mid">
-     <img src="${people[idx].picture.thumbnail}" class="ba b--black-10 db br-100 w2 w3-ns h2 h3-ns"/>
+     <img src="" class="ba b--black-10 db br-100 w2 w3-ns h2 h3-ns"/>
    </div>
    <div class="dtc v-mid pl3">
-     <p>${tweet.tweet}</p>
+     <p>Tweet/text goes here</p>
    </div>
  </div>
 ```
