@@ -21,8 +21,8 @@ https://www.youtube.com/watch?v=qGhP6N-xywc&feature=youtu.be&hd=1
 1. Display all the people using the short-profile HTML template (see above)
 1. Make the Add User button functional such that it fetches one more person (may use fetch, or async/await/fetch, but not XMLHttpRequest) ...
 1. ...then displays that additional person to the end of the short-profiles list 
-1. If user clicks one of the short-profiles, the long-profile for that clicked-person displays instead (showing details such as email, cell, and location/state) ...
-1. ... along with a textarea box and a Tweet button
+1. If user clicks one of the short-profiles, the long-profile for that clicked-person displays instead along with a textarea box and a Tweet button
+1. Ensure long-profile shows details such as email, cell, and location/state
 1. If user types something in the textarea boxes and clicks tweet, then display that tweet using the tweets HTML template (see above) 
 1. Any prior tweets will already show and any new tweets are simply added to the list of prior tweets
 1. If user goes back to short-profiles list, and clicks another person, user can similarly create tweets for that person as well
