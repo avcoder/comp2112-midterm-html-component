@@ -2,7 +2,8 @@
 # Purpose: 
 Take an existing HTML template of twitter profiles and allow the user to click on each one in order to see more details and to tweet
 
-## Emulate this https://www.youtube.com/watch?v=qGhP6N-xywc&feature=youtu.be&hd=1
+## Emulate this
+https://www.youtube.com/watch?v=qGhP6N-xywc&feature=youtu.be&hd=1
 
 # What you'll need:
 
